@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">"
+
+# Font families
+heading_font = "Crimson Text"
+body_font = "Crimson Text"
+nav_font = "Crimson Text"
+mono_font = "Crimson Text"
