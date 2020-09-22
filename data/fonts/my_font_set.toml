@@ -1,8 +1,8 @@
 # Font style metadata
-name = "Minimal"
+name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">"
+google_fonts = "family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap"
 
 # Font families
 heading_font = "Crimson Text"

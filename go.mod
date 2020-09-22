@@ -1,5 +1,5 @@
-module https://github.com/joshfpedro/new-website/
+module github.com/wowchemy/starter-academic
 
 go 1.15
 
-require github.com/joshfpedro/wowchemy-hugo-modules/wowchemy v0.0.0-20200902195927-86da39719ccd // indirect
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20200920214445-6789c8948f0d // indirect
