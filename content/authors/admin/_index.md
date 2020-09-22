@@ -10,19 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Adjunct Lecturer | ML Researcher
+role: Department of Mathematics
 
 # Organizations/Affiliations
 organizations:
-- name: The City University of New York
+- name: The City College of New York
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include generative modeling and predictive modeling using deep learning.
+# bio: My research interests include generative modeling and predictive modeling using deep learning.
 
 interests:
-- Generative Modeling
-- Predictive Modeling
+- Artificial Intelligence
+- Applied Machine Learning
+- Reinforcement Learning
 
 education:
   courses:
@@ -79,6 +80,4 @@ user_groups:
 - Visitors
 ---
 
-Joshua Pedro is an adjunct lecturer at the City University of New York. His current research interests include predictive modeling and generative modeling using deep neural networks. He part of the machine learning team in the RxCOVEA, a group of scientists from around the world, whose goal is to build models that identify factors which affect survival probability in patients infected with the COVID-19 disease.
-
-When not studying, you can find him playing games and streaming on Twitch.
+Joshua Pedro is a lecturer in the mathematics department at the City University of New York. His current research interests include predictive modeling and generative modeling using deep neural networks.
