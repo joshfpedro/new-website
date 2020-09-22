@@ -44,9 +44,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/joshuapedro/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joshfpedro
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/joshfpedro/
+- icon: twitch
+  icon_pack: fab
+  link: https://www.twitch.tv/ser_josh
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
